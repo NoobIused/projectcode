@@ -23,7 +23,7 @@ else if(rounded == 3){
 }
 
 else if(rounded == 4){
-  randomtext.textContent = "76k views! (last checked march 31!)";
+  randomtext.textContent = "126K views (8/30/2025)";
 }
 
 else if(rounded == 5){
@@ -48,7 +48,7 @@ else if(rounded == 9){
 }
 
 else if(rounded == 10){
-  randomtext.textContent = "..........";
+  randomtext.textContent = "labubu";
 }
 
 
