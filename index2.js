@@ -10,7 +10,7 @@ if(rounded == 0){
 }
 
 else if(rounded == 1){
-  randomtext.textContent = "established in january of 2024";
+  randomtext.textContent = "established in january of 2024!";
 }
 
 else if(rounded == 2){
@@ -23,7 +23,7 @@ else if(rounded == 3){
 }
 
 else if(rounded == 4){
-  randomtext.textContent = "171K views (11/11/2025)";
+  randomtext.textContent = "212K views (1/30/2026)";
 }
 
 else if(rounded == 5){
