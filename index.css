@@ -1,8 +1,8 @@
 
 
 .gamebuttons {
-  color: rgb(0, 0, 0);
-  background-color: rgb(241, 108, 0);
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 50, 108);
   font-family: "Overpass", sans-serif;
   font-size:4vh;
   display: flex;
@@ -18,8 +18,7 @@
 }
 
 .grid {
-  /*background-color: #171717;*/
-  background-color: rgb(0, 0, 0);
+  background-color: #171717;
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 5px;
@@ -42,8 +41,7 @@
 .gamebuttons:hover {
   cursor: pointer;
   border-color: white;
-  background-color: rgb(254, 153, 51)
-  /*background-color: rgb(49, 89, 115)*/
+  background-color: rgb(49, 89, 115);
 }
 
 
@@ -64,8 +62,7 @@
 }
 
 .top{ 
-  /*background-color: rgb(0, 22, 40);*/
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(0, 22, 40);
   display: flex;
   flex-direction: column;
   font-family: "Overpass", sans-serif;
