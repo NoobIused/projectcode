@@ -23,7 +23,7 @@ else if(rounded == 3){
 }
 
 else if(rounded == 4){
-  randomtext.textContent = "314K views (4/8/2026)";
+  randomtext.textContent = "418K views";
 }
 
 else if(rounded == 5){
@@ -44,11 +44,11 @@ else if(rounded == 8){
 }
 
 else if(rounded == 9){
-  randomtext.textContent = "did you know this site has around 1500+ lines of code";
+  randomtext.textContent = "zamn";
 }
 
 else if(rounded == 10){
-  randomtext.textContent = "7 x 7 = 49";
+  randomtext.textContent = "ou shi";
 }
 
 
